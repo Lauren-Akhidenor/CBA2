@@ -1,5 +1,4 @@
-# 🌱 Cost-Benefit Analysis of Amaranth and Corchorus Farming
-
+# 🌱 COST-BENEFIT ANALYSIS OF ORGANIC VS INTEGRATED FARMING FOR AMARANTH & CORCHORUS
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Cost Projections](#-cost-projections)
