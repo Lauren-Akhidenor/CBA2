@@ -1,4 +1,5 @@
-# 🌱 COST-BENEFIT ANALYSIS OF ORGANIC VS INTEGRATED FARMING FOR AMARANTH & CORCHORUS
+# Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus 
+
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Cost Projections](#-cost-projections)
@@ -16,7 +17,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This project analyzes the economic viability of **Amaranth** and **Corchorus** farming under two approaches:
 
 - **Project 1:** Strictly organic farming using manure.  
@@ -26,7 +27,7 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 
 ---
 
-## 📊 Cost Projections
+## Cost Projections
 
 ### Project 1: Organic Farming (Manure Only)
 
@@ -56,7 +57,7 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 
 ---
 
-## 📈 Benefit Projections
+## Benefit Projections
 
 ### Project 1: Organic Farming
 
@@ -82,7 +83,7 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 
 ---
 
-## 📊 Metrics & Findings
+## Metrics & Findings
 
 | Metric       | Project 1 (Organic) | Project 2 (Integrated) |
 |-------------|-------------------|------------------------|
@@ -96,7 +97,7 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 
 ---
 
-## 🖼️ Farming Process Images
+## Farming Process Images
 
 <details>
 <summary>Click to expand images</summary>
@@ -106,7 +107,7 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 
 ---
 
-## 🧮 Formulas Used
+## Formulas Used
 - **Net Present Value (NPV)**  
 NPV = ∑ (Net Cash Flow_t / (1 + r)^t) - Initial Investment
 
