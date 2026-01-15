@@ -4,15 +4,19 @@
 1. [Project Overview](#project-overview)
 2. [Economic Methodology](#economic-methodology)
 3. [Cost Projections](#cost-projections)
+   - [Project 1: Organic Farming (Manure Only)](#project-1-organic-farming-manure-only)
+   - [Project 2: Integrated Farming (Fertiliser + Pesticide + Manure)](#project-2-integrated-farming-fertiliser--pesticide--manure)
+4. [Benefit Projections](#benefit-projections)
    - [Project 1: Organic Farming](#project-1-organic-farming)
    - [Project 2: Integrated Farming](#project-2-integrated-farming)
-4. [Benefit Projections](#benefit-projections)
-   - [Project 1: Organic Farming](#project-1-organic-farming-1)
-   - [Project 2: Integrated Farming](#project-2-integrated-farming-1)
 5. [Metrics & Findings](#metrics--findings)
 6. [Farming Process Images](#farming-process-images)
 7. [Formulas Used](#formulas-used)
-8. [Insights & Implications](#insights--implications)
+8. [Key Findings Summary](#key-findings-summary)
+9. [Critical Policy Implications](#critical-policy-implications)
+10. [Recommended Actions](#recommended-actions)
+11. [Sustainable Development Goal (SDG) Alignment](#sustainable-development-goal-sdg-alignment)
+
 
 ---
 
@@ -37,7 +41,7 @@ The project applies **Cost-Benefit Analysis (CBA)** combined with standard econo
 
 **Purpose:** To quantify economic efficiency and determine which farming system provides greater profitability and financial sustainability.  
 
-**Tools Used:** Microsoft Excel
+**Tool Used:** Microsoft Excel
 
 ---
 
@@ -124,11 +128,45 @@ The project applies **Cost-Benefit Analysis (CBA)** combined with standard econo
 
 ---
 
-## Insights & Implications
+## Key Findings Summary  
 
-- Organic farming is **more economically viable**, generating a positive net benefit and ROI.  
-- Integrated farming incurs higher input costs, leading to **negative profitability** in this trial.  
-- Economic metrics (ROI, NPV, IRR, BCR) confirm organic methods as **financially sustainable** for smallholder farmers.  
-- Findings provide **evidence-based guidance** for policy, investment, and sustainable agricultural interventions.
+**Clear Economic Winner: Organic Farming**
+
+### Performance Comparison
+
+| Metric | Organic | Integrated | Advantage |
+|--------|---------|------------|-----------|
+| **ROI** | **+19.9%** | -18.4% | Organic outperforms by **38.3 percentage points** |
+| **Benefit–Cost Ratio (BCR)** | **1.20** | 0.82 | Only organic exceeds the profitability threshold (1.0) |
+| **Net Present Value (NPV)** | **₦3,755** | -₦13,268 | Organic generates positive economic value |
+| **Net Benefit** | **₦8,300** | -₦9,450 | **₦17,750 higher profit per cycle** under organic |
 
 ----
+
+## Critical Policy Implications
+
+### Why Integrated Farming Failed
+- **Higher production costs** (₦51,450 vs ₦41,700) without proportional yield gains  
+- **Lower amaranth yield** (120 kg vs 150 kg under organic management)  
+- **Pesticides and fertilizers increased costs** without improving productivity or market value  
+
+---
+
+## Recommended Actions
+
+- **Scale organic African Leafy Vegetable (ALV) production** as a proven, profitable enterprise for smallholders  
+- **Reassess integrated input protocols**, the current model is economically destructive  
+- **Lower manure costs** (₦25,000 = ~60% of organic costs) through **community composting and shared input systems**  
+- **Prioritise women and youth** for enterprise development due to low capital requirements and high returns  
+
+---
+
+##  Sustainable Development Goal (SDG) Alignment
+
+- **SDG 2 – Zero Hunger:** Higher and more stable yields under organic systems  
+- **SDG 8 – Decent Work & Economic Growth:** 19.9% ROI enables viable farm-based livelihoods  
+- **SDG 12 – Responsible Consumption & Production:** Reduced chemical dependency  
+- **SDG 15 – Life on Land:** Improved soil health and ecological sustainability  
+
+---
+
