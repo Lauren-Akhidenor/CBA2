@@ -12,9 +12,7 @@
 5. [Metrics & Findings](#metrics--findings)
 6. [Farming Process Images](#farming-process-images)
 7. [Formulas Used](#formulas-used)
-8. [Insights](#insights)
-9. [How to Run](#how-to-run)
-10. [Contributing](#contributing)
+8. [Insights & Implications](#insights--implications)
 
 ---
 
@@ -22,7 +20,7 @@
 This project evaluates the **economic viability** of cultivating **Amaranth** and **Corchorus** under two farming systems:
 
 - **Project 1:** Organic farming using only manure.  
-- **Project 2:** Integrated farming combining fertilizer, pesticide, and manure.  
+- **Project 2:** Integrated farming combining fertiliser, pesticide, and manure.  
 
 The study compares costs, revenues, and profitability using structured **economic analysis** to inform smallholder farming decisions in Nigeria.
 
@@ -35,9 +33,9 @@ The project applies **Cost-Benefit Analysis (CBA)** combined with standard econo
 - **Return on Investment (ROI):** (Net Benefit ÷ Total Cost) × 100  
 - **Benefit-Cost Ratio (BCR):** Total Revenue ÷ Total Cost  
 - **Net Present Value (NPV):** ∑ (Net Cash Flow_t / (1 + r)^t) − Initial Investment  
-- **Internal Rate of Return (IRR):** Discount rate where NPV = 0  
+- **Internal Rate of Return (IRR):** Discount rate at which NPV = 0  
 
-**Purpose:** To quantify economic efficiency and assess which farming system provides better profitability and financial sustainability.
+**Purpose:** To quantify economic efficiency and determine which farming system provides greater profitability and financial sustainability.  
 
 **Tools Used:** Microsoft Excel
 
@@ -50,20 +48,20 @@ The project applies **Cost-Benefit Analysis (CBA)** combined with standard econo
 |------------------------|----------|---------------|----------------|
 | Land                   | 1        | 5,000         | 5,000          |
 | Manure                 | 5        | 5,000         | 25,000         |
-| Labor                  | 5        | 2,000         | 10,000         |
+| Labour                 | 5        | 2,000         | 10,000         |
 | Seeds – Amaranth       | 1        | 700           | 700            |
 | Seeds – Corchorus      | 1        | 500           | 500            |
 | Off-season Cost        | 1        | 500           | 500            |
 | **Total Cost**         | —        | —             | **41,700**     |
 
-### Project 2: Integrated Farming (Fertilizer + Pesticide + Manure)
+### Project 2: Integrated Farming (Fertiliser + Pesticide + Manure)
 | Item                   | Quantity | Unit Cost (₦) | Total Cost (₦) |
 |------------------------|----------|---------------|----------------|
 | Land                   | 1        | 5,000         | 5,000          |
-| Fertilizer (NPK)       | 5        | 1,200         | 6,000          |
+| Fertiliser (NPK)       | 5        | 1,200         | 6,000          |
 | Pesticide (Cypermetrine)| 1       | 3,750         | 3,750          |
 | Manure                 | 5        | 5,000         | 25,000         |
-| Labor                  | 5        | 2,000         | 10,000         |
+| Labour                 | 5        | 2,000         | 10,000         |
 | Seeds – Amaranth       | 1        | 700           | 700            |
 | Seeds – Corchorus      | 1        | 500           | 500            |
 | Off-season Cost        | 1        | 500           | 500            |
@@ -120,17 +118,17 @@ The project applies **Cost-Benefit Analysis (CBA)** combined with standard econo
 ## Formulas Used
 
 - **Net Present Value (NPV):** `NPV = ∑ (Net Cash Flow_t / (1 + r)^t) - Initial Investment`  
-- **Internal Rate of Return (IRR):** `IRR = Discount rate where NPV = 0`  
+- **Internal Rate of Return (IRR):** `IRR = Discount rate at which NPV = 0`  
 - **Return on Investment (ROI):** `ROI (%) = (Net Benefit / Total Cost) * 100`  
 - **Benefit-Cost Ratio (BCR):** `BCR = Total Revenue / Total Cost`  
 
 ---
 
-## Insights
+## Insights & Implications
 
-- Organic farming is **more economically viable**, generating positive net benefit and ROI.  
-- Integrated farming incurs higher input costs leading to **negative profitability** in this trial.  
+- Organic farming is **more economically viable**, generating a positive net benefit and ROI.  
+- Integrated farming incurs higher input costs, leading to **negative profitability** in this trial.  
 - Economic metrics (ROI, NPV, IRR, BCR) confirm organic methods as **financially sustainable** for smallholder farmers.  
 - Findings provide **evidence-based guidance** for policy, investment, and sustainable agricultural interventions.
 
----
+----
