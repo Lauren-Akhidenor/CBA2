@@ -1,91 +1,101 @@
-# Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus 
+# Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus
 
 ## 📑 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Cost Projections](#-cost-projections)
+1. [Project Overview](#project-overview)
+2. [Economic Methodology](#economic-methodology)
+3. [Cost Projections](#cost-projections)
    - [Project 1: Organic Farming](#project-1-organic-farming)
    - [Project 2: Integrated Farming](#project-2-integrated-farming)
-3. [Benefit Projections](#-benefit-projections)
+4. [Benefit Projections](#benefit-projections)
    - [Project 1: Organic Farming](#project-1-organic-farming-1)
    - [Project 2: Integrated Farming](#project-2-integrated-farming-1)
-4. [Metrics & Findings](#-metrics--findings)
-5. [Farming Process Images](#-farming-process-images)
-6. [Formulas Used](#-formulas-used)
-7. [Insights](#-insights)
-8. [How to Run](#-how-to-run)
-9. [Contributing](#-contributing)
+5. [Metrics & Findings](#metrics--findings)
+6. [Farming Process Images](#farming-process-images)
+7. [Formulas Used](#formulas-used)
+8. [Insights](#insights)
+9. [How to Run](#how-to-run)
+10. [Contributing](#contributing)
 
 ---
 
 ## Project Overview
-This project analyzes the economic viability of **Amaranth** and **Corchorus** farming under two approaches:
+This project evaluates the **economic viability** of cultivating **Amaranth** and **Corchorus** under two farming systems:
 
-- **Project 1:** Strictly organic farming using manure.  
-- **Project 2:** Integrated farming using fertilizer, pesticide, and manure.  
+- **Project 1:** Organic farming using only manure.  
+- **Project 2:** Integrated farming combining fertilizer, pesticide, and manure.  
 
-Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivated in Nigeria. The project compares costs, revenues, and profitability metrics using **Excel-based Cost-Benefit Analysis (CBA)**.
+The study compares costs, revenues, and profitability using structured **economic analysis** to inform smallholder farming decisions in Nigeria.
+
+---
+
+## Economic Methodology
+The project applies **Cost-Benefit Analysis (CBA)** combined with standard economic metrics for investment appraisal:
+
+- **Net Benefit:** Total Revenue − Total Cost  
+- **Return on Investment (ROI):** (Net Benefit ÷ Total Cost) × 100  
+- **Benefit-Cost Ratio (BCR):** Total Revenue ÷ Total Cost  
+- **Net Present Value (NPV):** ∑ (Net Cash Flow_t / (1 + r)^t) − Initial Investment  
+- **Internal Rate of Return (IRR):** Discount rate where NPV = 0  
+
+**Purpose:** To quantify economic efficiency and assess which farming system provides better profitability and financial sustainability.
+
+**Tools Used:** Microsoft Excel
 
 ---
 
 ## Cost Projections
 
 ### Project 1: Organic Farming (Manure Only)
-
-| Item                   | Quantity | Unit Cost (₦) | Total Cost (₦) | Notes                     |
-|------------------------|----------|---------------|----------------|---------------------------|
-| Land                   | 1        | 5,000         | 5,000          | Rent                      |
-| Manure                 | 5        | 5,000         | 25,000         | Organic manure            |
-| Labor                  | 5        | 2,000         | 10,000         | 1 person/bed 3× week      |
-| Seeds – Amaranth       | 1        | 700           | 700            | 1 tin                     |
-| Seeds – Corchorus      | 1        | 500           | 500            | 1 tin                     |
-| Off-season Cost        | 1        | 500           | 500            | Adjustment                |
-| **Total Cost**         | —        | —             | **41,700**     |                           |
+| Item                   | Quantity | Unit Cost (₦) | Total Cost (₦) |
+|------------------------|----------|---------------|----------------|
+| Land                   | 1        | 5,000         | 5,000          |
+| Manure                 | 5        | 5,000         | 25,000         |
+| Labor                  | 5        | 2,000         | 10,000         |
+| Seeds – Amaranth       | 1        | 700           | 700            |
+| Seeds – Corchorus      | 1        | 500           | 500            |
+| Off-season Cost        | 1        | 500           | 500            |
+| **Total Cost**         | —        | —             | **41,700**     |
 
 ### Project 2: Integrated Farming (Fertilizer + Pesticide + Manure)
-
-| Item                   | Quantity | Unit Cost (₦) | Total Cost (₦) | Notes                     |
-|------------------------|----------|---------------|----------------|---------------------------|
-| Land                   | 1        | 5,000         | 5,000          | Rent                      |
-| Fertilizer (NPK)       | 5        | 1,200         | 6,000          | 5kg each                  |
-| Pesticide (Cypermetrine)| 1       | 3,750         | 3,750          | 120ml                     |
-| Manure                 | 5        | 5,000         | 25,000         | Organic manure            |
-| Labor                  | 5        | 2,000         | 10,000         | 1 person/bed 3× week      |
-| Seeds – Amaranth       | 1        | 700           | 700            | 1 tin                     |
-| Seeds – Corchorus      | 1        | 500           | 500            | 1 tin                     |
-| Off-season Cost        | 1        | 500           | 500            | Adjustment                |
-| **Total Cost**         | —        | —             | **51,450**     |                           |
+| Item                   | Quantity | Unit Cost (₦) | Total Cost (₦) |
+|------------------------|----------|---------------|----------------|
+| Land                   | 1        | 5,000         | 5,000          |
+| Fertilizer (NPK)       | 5        | 1,200         | 6,000          |
+| Pesticide (Cypermetrine)| 1       | 3,750         | 3,750          |
+| Manure                 | 5        | 5,000         | 25,000         |
+| Labor                  | 5        | 2,000         | 10,000         |
+| Seeds – Amaranth       | 1        | 700           | 700            |
+| Seeds – Corchorus      | 1        | 500           | 500            |
+| Off-season Cost        | 1        | 500           | 500            |
+| **Total Cost**         | —        | —             | **51,450**     |
 
 ---
 
 ## Benefit Projections
 
 ### Project 1: Organic Farming
-
 | Crop         | Qty (kg) | Price/kg (₦) | Revenue (₦) |
 |--------------|----------|---------------|-------------|
 | Amaranth     | 150      | 200           | 30,000      |
 | Corchorus    | 100      | 200           | 20,000      |
 | **Total Revenue** | —    | —             | **50,000**  |
 
-**Net Benefit** = 50,000 − 41,700 = **₦8,300**
-
----
+**Net Benefit:** 50,000 − 41,700 = **₦8,300**
 
 ### Project 2: Integrated Farming
-
 | Crop         | Qty (kg) | Price/kg (₦) | Revenue (₦) |
 |--------------|----------|---------------|-------------|
 | Amaranth     | 120      | 200           | 24,000      |
 | Corchorus    | 90       | 200           | 18,000      |
 | **Total Revenue** | —    | —             | **42,000**  |
 
-**Net Benefit** = 42,000 − 51,450 = **−₦9,450**
+**Net Benefit:** 42,000 − 51,450 = **−₦9,450**
 
 ---
 
 ## Metrics & Findings
 
-| Metric       | Project 1 (Organic) | Project 2 (Integrated) |
+| Metric       | Organic (Project 1) | Integrated (Project 2) |
 |-------------|-------------------|------------------------|
 | Total Cost  | 41,700            | 51,450                 |
 | Total Revenue | 50,000          | 42,000                 |
@@ -108,46 +118,19 @@ Amaranth and Corchorus are highly nutritious leafy vegetables commonly cultivate
 ---
 
 ## Formulas Used
-- **Net Present Value (NPV)**  
-NPV = ∑ (Net Cash Flow_t / (1 + r)^t) - Initial Investment
 
-*Where `r` is the discount rate (Excel formula: =NPV(rate, value1, [value2], …) - initial investment)*
-
-- **Internal Rate of Return (IRR)**  
-
-
-IRR = Discount rate where NPV = 0
-
-*Excel formula: =IRR(values, [guess])*  
-
-- **Return on Investment (ROI)**  
-
-
-ROI (%) = (Net Benefit / Total Cost) * 100
-
-
-- **Benefit-Cost Ratio (BCR)**  
-
-
-BCR = Total Revenue / Total Cost
-
+- **Net Present Value (NPV):** `NPV = ∑ (Net Cash Flow_t / (1 + r)^t) - Initial Investment`  
+- **Internal Rate of Return (IRR):** `IRR = Discount rate where NPV = 0`  
+- **Return on Investment (ROI):** `ROI (%) = (Net Benefit / Total Cost) * 100`  
+- **Benefit-Cost Ratio (BCR):** `BCR = Total Revenue / Total Cost`  
 
 ---
 
+## Insights
+
+- Organic farming is **more economically viable**, generating positive net benefit and ROI.  
+- Integrated farming incurs higher input costs leading to **negative profitability** in this trial.  
+- Economic metrics (ROI, NPV, IRR, BCR) confirm organic methods as **financially sustainable** for smallholder farmers.  
+- Findings provide **evidence-based guidance** for policy, investment, and sustainable agricultural interventions.
 
 ---
-
-## 🔍 Insights
-- Organic farming (Project 1) is **more profitable** than integrated farming in this scenario.  
-- Strictly organic methods generate higher yield in this trial, reducing input costs while maintaining revenue.  
-- Integrated farming (Project 2) incurs **higher costs** from fertilizers and pesticides, resulting in a negative net benefit.  
-- Metrics such as **ROI, NPV, and IRR** clearly show Project 1 as economically viable.
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/Lauren-Akhidenor/CBA2.git
-
-
