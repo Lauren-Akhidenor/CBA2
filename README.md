@@ -1,4 +1,4 @@
-# Cost–Benefit Analysis of Organic vs Integrated Farming: Amaranth & Corchorus Production in Smallholder Systems  
+# Organic vs Integrated Farming: Cost–Benefit Analysis of Amaranth & Corchorus Production in Smallholder Systems
 
 ---
 
